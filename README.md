@@ -68,3 +68,22 @@ The goal was to not only replicate core concepts but also to explore customizati
 - Store user scores in local storage
 - Add more categories and support API-based question sources
 - Improve accessibility and keyboard navigation
+
+## 📷 Media
+
+**Category List**
+![Category list](https://github.com/that-VeeJay/simple-quiz-app/blob/0a697625217b5cb1aad66427fa85f6e0f18c54af/public/screenshots/Screenshot%202025-05-03%20213216.png)
+
+![Pop up notification](https://github.com/that-VeeJay/simple-quiz-app/blob/0a697625217b5cb1aad66427fa85f6e0f18c54af/public/screenshots/Screenshot%202025-05-03%20213244.png)
+
+**Form UI**
+![form ui](https://github.com/that-VeeJay/simple-quiz-app/blob/0a697625217b5cb1aad66427fa85f6e0f18c54af/public/screenshots/Screenshot%202025-05-03%20213340.png)
+
+**Result board**
+![result board](https://github.com/that-VeeJay/simple-quiz-app/blob/0a697625217b5cb1aad66427fa85f6e0f18c54af/public/screenshots/Screenshot%202025-05-03%20213418.png)
+
+**Review answers**
+![review answers](https://github.com/that-VeeJay/simple-quiz-app/blob/0a697625217b5cb1aad66427fa85f6e0f18c54af/public/screenshots/Screenshot%202025-05-03%20213427.png)
+
+**Page not found**
+![Page not found](https://github.com/that-VeeJay/simple-quiz-app/blob/0a697625217b5cb1aad66427fa85f6e0f18c54af/public/screenshots/Screenshot%202025-05-03%20213444.png)
