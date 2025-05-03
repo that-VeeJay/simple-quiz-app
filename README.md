@@ -2,6 +2,8 @@
 
 This is a responsive quiz application built with React that allows users to select a category, answer multiple-choice questions, and view their score upon completion. It features dynamic question sets, instant feedback, and a restart option to retake quizzes.
 
+[Live Preview](https://simple-quiz-app-lake-chi.vercel.app/)
+
 ## ✨Features
 
 - Category selection
