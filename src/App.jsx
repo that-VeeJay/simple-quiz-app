@@ -5,7 +5,7 @@ import NotFoundPage from "./pages/NotFoundPage";
 
 const routes = [
     { path: "/", element: <Home /> },
-    { path: "/quiz", element: <Quiz /> },
+    { path: "/form/:category", element: <Quiz /> },
     { path: "*", element: <NotFoundPage /> }
 ];
 
